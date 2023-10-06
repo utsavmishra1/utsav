@@ -1,1 +1,1 @@
-# utsav
+![Project humbnail](./thumbnail.jpg)
